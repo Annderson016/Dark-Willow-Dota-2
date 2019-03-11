@@ -1,0 +1,82 @@
+BRAMBLE MAZE
+Orientación 
+Target PointAfecta a las
+unidades enemigas.Tipo de daño 
+mágicoDark Willow crea un laberinto de zarzas en el área objetivo. Los enemigos que entran en una zarza reciben daño con el tiempo y están enraizados.
+Daño total125/150/175/200
+Duración de la raíz1 / 1.5 / 2 / 2.5
+Radio de enganche90
+Zarzas invocadas8
+Duración de la zarza15
+Intervalo de daño0.5
+Radio del laberinto500
+Rango de lanzamiento1200
+Punto de lanzamiento0.3
+ 25  100/120/140/160
+	No perfora la Inmunidad de Hechizos.
+	Disipable.
+El reino fase existe a tu alrededor, simplemente esperando para atraerte ...
+
+
+REINO DE LA SOMBRAS
+Orientación 
+Sin destinoAfecta al
+yoTipo de daño 
+mágicoDark Willow retrocede en las sombras, convirtiéndose en imposible de atacar. Su siguiente ataque ha aumentado el rango de ataque y causa daño mágico adicional, terminando el Reino de las Sombras. Escalas de daño según el tiempo que permanezca bajo el efecto del Reino de las Sombras.
+Daño máximo90/180/270/360 
+660 20
+Tiempo máximo de daño3
+Rango de ataque1075
+Duración5
+Punto de lanzamiento0
+ 32/26/20/14  70/80/90/100
+	No perfora la Inmunidad de Hechizos.
+	Disipable.
+Lo que no puedes ver definitivamente te hará daño.
+
+CORONA MALDITA
+
+Objetivo de la 
+unidad de orientaciónAfecta a las
+unidades enemigas.Tipo de daño 
+mágicoSauce oscuro lanza una antigua maldición de fae sobre el objetivo. Después de un retraso, el objetivo y los enemigos cercanos quedan aturdidos.
+Duración de aturdimiento1.75 / 2.25 / 2.75 / 3.25
+Radio de aturdimiento325
+Retrasar4
+Rango de lanzamiento600
+Punto de lanzamiento0.2
+ 18/16/14/12  80/100/120/140
+	No perfora la Inmunidad de Hechizos.
+	Disipable.
+¿Nadie te lo ha dicho alguna vez? Nunca hagas un trato con un hada ...
+
+ALGARABIA
+
+Orientación 
+Sin destinoAfecta a las
+unidades enemigas.Tipo de daño 
+mágicoEl pelaje de la mascota de Dark Willow deambula a su alrededor por el tiempo, atacando rápidamente a los enemigos cercanos. Bedlam no se puede usar mientras Terrorize esté activo.
+Daño por ataque60/110/160
+Intervalo de ataque0.25
+Radio de ataque300
+Objetivos1
+Radio de itinerancia200
+Duración5
+Punto de lanzamiento0
+ 30  100/150/200
+	No perfora la Inmunidad de Hechizos.
+Tendrás que excusar a mi amigo Jex. Él está realmente en el asesinato.
+
+ATERRORIZAR
+
+Orientación 
+Target PointAfecta a las
+unidades enemigas.Dark Willow libera a su mascota para aterrorizar a sus enemigos. Después de un breve retraso, todos los enemigos en el área objetivo se vuelven temerosos y corren hacia su fuente de origen. Terrorizar no se puede usar mientras Bedlam está activo.
+Duración del miedo4 
+5.5 25
+Radio400
+Rango de lanzamiento1500
+Tiempo de lanzamiento1
+ 100/80/60  150
+	No perfora la Inmunidad de Hechizos.
+¿Crees que sabes lo primero sobre el miedo? Jex te mostrará lo que realmente significa esa palabra ...
